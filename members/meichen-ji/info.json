@@ -1,7 +1,8 @@
 {
   "name": "Meichen Ji",
   "photo": "meichen-ji/meichen.png",
-  "role": "Software Engineer",
+  "programName": "Software Technolgy Msc",
+  "year":"1",
   "bioFile": "meichen-ji/bio.md",
   "projectFile": "meichen-ji/projects.md"
 }
