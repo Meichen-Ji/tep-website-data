@@ -6,7 +6,7 @@ This repo is served as database for member and project info for TEP members.
 
 As a team member, you can edit your profile directly:
 
-1. Navigate to your profile folder (`members/your-github-username/`)
+1. Navigate to your profile folder (`members/your-name/`)
 2. Click the pencil icon to edit your files
 3. Make changes and commit directly to the main branch
 4. Your changes will be automatically processed and deployed
