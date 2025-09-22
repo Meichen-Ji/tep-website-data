@@ -12,14 +12,16 @@ As a team member, you can edit your profile directly:
 4. Your changes will be automatically processed and deployed
 
 Tips:
-- Edit `info.json` for your basic information
-- Edit `bio.md` to update your bio with Markdown formatting
-- Use GitHub's "Preview" tab to check your Markdown formatting
+1. Edit `info.json` for your basic information
+2. Edit `bio.md` to update your bio with Markdown formatting
+3. Edit `project.md` to update your current projects info with Markdown formatting
+4. Upload your photo to folder and add path to `info.json`
+5. Use GitHub's "Preview" tab to check your Markdown formatting
 
 
 ## Editing Guidelines
 
-1. Only edit your own profile files
-2. If editing several files, make separate commits for each
-3. Check the Actions tab to ensure your changes processed successfully
-4. If you need to update the overall structure, discuss with the team first
+- Only edit your own profile files
+- If editing several files, make separate commits for each
+- Check the Actions tab to ensure your changes processed successfully
+- If you need to update the overall structure, discuss with the team first
