@@ -7,7 +7,7 @@ This repo is served as database for member and project info for TEP members.
 As a team member, you can edit your profile directly:
 
 1. Navigate to the data file (`data/members.json`).
-2. Click the pencil icon to edit the json, you can add a new entry, and the id should be incremented.
+2. Click the pencil icon to edit the json, you can editing existing entry or add a new entry, and the id should be incremented.
 3. Upload your photo to `assets/members_pic/` and add the path `./assets/members_pic/your-name.png"` to your json entry. The photo should be a square image.
 4. The project field, if any, should be an array of project ids from `data/projects.json`.
 5. Commit directly to the main branch.
@@ -33,19 +33,19 @@ What it looks like on the website:
 ## TEP project Instructions
 As a team member, you can edit your project directly:
 1. Navigate to the data file (`data/projects.json`).
-2. Click the pencil icon to edit the json, you can add a new entry, and the id should be incremented.
+2. Click the pencil icon to edit the json, you can you can editing existing entry or add a new entry, and the id should be incremented.
 3. Upload your project image to `assets/projects_pic/` and add the path `./assets/projects_pic/your-project.png"` to your json entry. The image should be a horizontal rectangle.
 4. Commit directly to the main branch.
 
 Example entry:
 ```json
 {
-    "id": 1,
-    "title": "Teaching Assistant",
-    "date": "2025-09-01",
-    "description": "Assisting in grading assignments, holding office hours, and supporting students in understanding course material.",
-    "category": "Education",
-    "image": "./assets/projects_pic/ta.jpg"
+    "id": 2,
+    "title": "TEP Website Development",
+    "date": "2025-09-19",
+    "description": "Developing and maintaining the TEP website to ensure it is user-friendly, up-to-date, and informative for current and prospective members.",
+    "category": "Development",
+    "image": "./assets/projects_pic/web-development.jpg"
   },
 ```
 
